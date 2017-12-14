@@ -61,7 +61,7 @@ training_set=nltk.classify.util.apply_features(extract_features,tweets)
 #print(training_set)
 NBClassifier=nltk.NaiveBayesClassifier.train(training_set)
 
-testTweet='razi deyiləm'
+testTweet='zehlem gedir'
 processed=processTweet(testTweet)
 result=NBClassifier.classify(extract_features(getFeatureVector(processed)))
 print(result)

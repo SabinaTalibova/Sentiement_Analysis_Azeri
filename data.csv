@@ -1,4 +1,1161 @@
-yaxshidir;,;positive
-pisdir;,;negative
-raziyam;,;positive
-razi deyil?m;,;negative
+sentence;,;label
+bu gun cox yaxshi hiss edirem;,;positive
+heyat cox yorucudur;,;negative
+heyat cetindir;,;negative
+bu gun cox pis kecdi;,;negative
+yaxshi olacaq;,;positive
+pis olacaq;,;negative
+yoruldum;,;negative
+bu mehsulu sevmedim;,;negative
+pis olmadi;,;positive
+dadli deyildi;,;negative
+tebrikler dostlar;,;positive
+Bu gun ela gun idi;,;positive
+ela kecdi her shey;,;positive
+bu kitabi cox beyendim;,;positive
+ bu kitabi hec beyenmedim;,;negative
+yaxshi ishler gormusunuz;,;positive
+bunu bacara bilerem;,;positive
+kitabin hekayesi sixici idi;,;positive
+anam cox dadli yemek bishirib;,;positive
+timsahlar insani yedi;,;negative
+avtobus basabas idi;,;negative
+imtahandan kesilmishdi;,;negative
+gun cixanda buuldlar rengareng idi;,;positive
+dovga qati idi;,;positive
+sevgi shirindir;,;positive
+gozleri sevincden dolmushdu;,;positive
+meyveler yemeli gorsenirdi;,;positive
+ozunu deli yerine qoymushdu;,;negative
+payizda agaclar cirilciplaq idi;,;negative
+genclik metrosu yaxinligi kulekli idi;,;negative
+sahil metrosu temire baglanib, insanlar sahil metro stansiyasina gedmek ucun vaxt itirir;,;negative
+bezi muellimler qimet kesir;,;negative
+seyahet edib dunyani  gormek arzumdur;,;positive
+gozlerinne aglamaqdan qan dolmushdu;,;negative
+denizin mavisini gozlerinde gormek icime rahatliq getirir;,;positive
+insanlarin icinde sesini eshidmek minlerle hisse deyer;,;positive
+meyveler ezilmishdi;,;negative
+yeni telefonum suretli ishleyir;,;positive
+gozleri dovshan gozlerine benzeyirdi;,;positive
+dersde vaxt kecmek bilmirdi;,;negative
+parkdaki insanlarin gulush sesleri tebietin oyandigini ve baharin geldiyini gosterirdi;,;positive
+gozlerindeki sehrli baxish kishileri ona cekirdi;,;positive
+geyindiyi qisa etek ile haminin diqqeti onun uerinde idi;,;positive
+muellimlerin eziyetinin qarshisinda netice onlara qulaq asmayan telebeler olur;,;negative
+universitetdeki amerikali muellim cox yarashiqlidir;,;positive
+ilk sevgi hemishe xosh xatirlanir;,;positive
+avtomatik perdeler xarab olmushdu;,;negative
+ushaqlar pencereni sindirib dersden qacdilar;,;negative
+butun sarishinlar ozlerini gozel hesab edir;,;negative
+birinci sinifde oglanlari doyurdum;,;negative
+menyudaki yemekler cox bahali idi;,;negative
+seherisi gun derse yeni fikirlerle gelmishdi;,;positive
+sevgilisini hamidan qisqanirdi;,;negative
+xeyanet etmish sevgilisi gozunden dushmushdu;,;negative
+kafe acmaq ucun kreativ ideyalari var idi;,;positive
+uzun saclarini yolmaq isteyirem;,;negative
+karizmatik gorunushlu professor telebelerin dilini basha dushurdu;,;positive
+dar cins shalvar geyinmish ariq oglan ozunu dunya gozeli hesab edir;,;negative
+sinifde bir nefer sebr getirende hami ona saglam ol deyir;,;positive
+kendden gelib oglanlara yanashma ucun rus dilinde danishan qizlar var;,;negative
+ailesinden kesilmishem deye pul alan qizlar o pullari alish verishde yeyir;,;negative
+yeniden seve bilmek gozeldir;,;positive
+ilk defe danishan ushagin anasi ve atasi sevincden ne edeceklerini bilmirdiler;,;positive
+derslerinde elaci shagird hem de terbiyeli idi;,;positive
+gozler yalani anlayir;,;positive
+heqiqi insanlarin cox dostu yoxdur;,;positive
+heyatin menasi sadece heyatda qalmaqdir;,;positive
+qiz atasi ile boyudukce uzaqlashmishdi;,;negative
+dersler semesterin sonlarina dogru sixici olmaga bashlayir;,;negative
+sebine dersde yatmishdi;,;negative
+nurane dersde komputerde oyun oynayirdi;,;negative
+nermin dersde derse qulaq asirdi ;,;positive
+hava axshama dogru soyumushdu;,;negative
+bu semesteri elaci olaraq bitirdim;,;positive
+ailem menimle fexr edir;,;positive
+ariqladiqdan sonra ozumu yungul hiss edirem;,;positive
+besh yuz cumleni yazmaq zulumdur;,;negative
+cipsini acilisi dadlidir;,;positive
+seher tezden durub derse getmek cetindir ;,;negative
+komputerin zaryatka saxlamaq qabiliyyeti sifirdir ;,;negative 
+baki sumqayit avtobuslari azerbaycanda sheherler arasinda en suretli avtobuslardir;,;positive 
+yeni aldigim uz ucun krem cox yungul idi;,;positive
+sumqayit sheherinde abadlashdirma ishleri aparilir;,;positive
+acgoz davarnib imtahanda kocurtdu ve muellim kocurerken tutdu;,;negative
+agladigi ucun valideyn ushagini acilayirdi;,;negative
+acinacaqlii shekilde ozunu sevdirmeye calishirdi;,;negative
+aciqrengli bembeyaz derisi guneshin altinda parildayirdi;,;positive
+aciq-ashkar izah etmemesi yanlish anlashilmalara sebeb olmushdu;,;negative
+aciq-urekli dostum hemishe yardima mohtac insanlara komek edir;,;positive
+agilsizca neticelerini fikirleshmeyib diline sahib cixmadi;,;negative
+agirxasiyyetli qadin cemiyyet icerisinde xosh qarshilanir;,;positive
+agizdolusu qiybet etdik;,;negative
+qrup uzvleri arasinda aheng var idi;,;positive
+ermeniler xocali faciesinde amansizcasina gunahsiz insanlari qetl etdiler;,;negative
+ailecanli insan oldugu gorunushunden hiss olunurdu;,;positive
+indiki gencler sosial mediaya alude olub;,;negative
+gorduyu her ishe hevesle yanashirdi;,;positive
+yemeyi ala-ciy bishirmishdi;,;negative
+heyretamiz davranishlari ile haminin hormetini qazanmishdi;,;positive
+evleri ala-yarimshiq temizlemishdi;,;negative
+boylu-buxunlu oglan hem de yaxshi tehsil almishdi;,;positive
+qoca nenesini arabir ziyaret edirdi;,;negative
+hemin qadinin arzuedilen uz qurulushu var idi;,;positive
+gunumuzde azadfikirli insanlar cox deyil;,;negative
+bacariqli konullu verilen ishlerin ohtesinden meharetle gelirdi;,;positive
+muellimin eve verdiyi tapshirigi bashdansovdu elemishdi;,;negative
+cesur urekli insan balaca pishiyi olmekden qurtardi;,;positive
+bedxasiyyet olmasi etrafindaki insanlara da pis tesir gosterirdi;,;negative
+pulu evi mashini gozel ailesi var idi xoshbext heyat sururdu;,;positive
+ailesine qarshi bigane yanashirdi;,;negative
+yeni dogulan ushaq ozu ile birlikde bereket getirmishdi;,;positive
+bisavad qadin ele kuce ile qiishqira-qishqira gedirdi;,;negative
+bezekli yolkanin ishiqlari yanirdi;,;positive
+dersi bilmeyen telebe cefengiyyat danishirdi;,;negative
+celd hereket ederek mashini vaxtinda saxladi;,;positive
+cekingen shagird muelimden hec bir shey sorusha bilmirdi;,;negative
+cesaretlenib qiza sevgisini etiraf etdi;,;positive
+ikiuzlu davranaraq her iki terefi elinde oynadirdi;,;negative
+coxmeqsedli eshyalar daha serfelidir;,;positive
+sozlerini coxmenalidir bize atmaca atir;,;negative
+  bir insan bu qeder shey bilmek ucun dahi olmalidir;,;positive
+butun qizlarin ondan xoshu gelmirdi hemishe curukculuk edirdi;,;negative
+cetinliye dayaniqli tebieti ile ishlerini ohtesine qoydu;,;positive
+ushaqliqdan dalashqan idi;,;negative
+her ishinde deqiqdir ve hec bir ishini yarimciq qoymur;,;positive
+pishik deleduzluq edib qendqabini ashirtdi;,;negative
+o her zaman diqqetli idi hetta etrafindakilarin dogum gununu xatirlayirdi;,;positive
+gozleri uzaqlara derdli baxirdi;,;negative
+deyerli eshyalarini qirilmamasi ucun xususi qutuya qoymushdu;,;positive
+dirnaqarasi ifadeler ile oz aleminde mene soz atmaga calishirdi;,;negative
+diribashligi ile ozune yeni ish de tapmishdi;,;positive
+dolashiq ipleri ayira bilmedi ve kesdi;,;negative
+sene dopdolu qucaq dolusu salamlar gonderdi;,;positive
+filmlerin dublikatini cixartib satmaq qanunsuzdur;,;negative
+dunyagorushu o qeder guclu idi ki hec kim ona qalib gele bilmedi;,;positive
+eri ishlemeye qoymurdu butun gunu evde dustaq idi;,;negative
+yeni ilin dusherli olmasi ucun dua etmeye artiq bashlamishdi;,;positive
+dizlerinde duzlashma bashlamishdi;,;negative
+atasina cox dushkun idi;,;positive
+dushunmeden hereket edib bashini belaya saldi;,;negative
+o duzgunluyu ile fexr edirdi;,;positive
+ehtiyyatla goturmeye calishsa da qabqacagi qirdi;,;negative
+xaricden getirdiyi suvernirler eve ecaskar gorunush verirdi;,;positive
+o qeder eqoist idi ki ailesini bele fikirleshmirdi;,;negative
+bulku ile shirincay bir yerde shox dadlidir;,;positive
+elmsiz dunyada cinayetler de coxalacaq;,;negative
+butun evin ishi evin kishik qizi gorurdu cox evdar qiz idi;,;positive
+ailesi onu cox erkoyun boyutmushdu;,;negative
+edeb erkani ile oturub durmagi bacarirdi;,;positive
+yuxudan duran kimi qan ter icinde qalmishdi ;,;negative
+yuxuda imtahanlardan ugurla kecmishdi ;,;positive
+gece olan kimi butun otagi buz baglayacaq ;,;negative
+bazardaki xalalar halal zehmeti ile pul qazanirlar ;,;positive
+gece saat ikide anasi yatmayib iqra oynadigi ucun doydu ;,;negative
+makiyaj etdikden sonra daha gozel gorunurdu ;,;positive
+kokluyunu ozune kompleks etmishdi ;,;negative
+burnunu emeliyyat etdirdikden sonra oz guveni qalxmishdi ;,;positive
+derslerini etmeyib yatmishdi durduqda ise yeniden yatdi ;,;negative
+qaranliqda shamlari yandirib romantik abu hava yaratmishdi ;,;positive
+ailesi evlenmeyi ucun engel toredirdi ;,;negative
+kasib ushaqlara pulsuz ders kecerek eliaciq oldugunu kifayet qeder gostermishdi ;,;positive
+geleceyi ile bagli qerarlardan emin olmadigi ucun endishli idi;,;negative
+elbir olub agac ekilmesine komek edek ;,;positive
+durub gedib ozune cay suzmeye erinirdi;,;negative
+sergideki el ishleri esrarengiz idi;,;positive
+insanlardan uzaqlasharaq ozunu qapali muhite salmishdi;,;negative
+qarshidan gelen xala etli qanli idi;,;positive
+gece o qeder yatmishdi ki seher duranda ezgin idi;,;negative
+favorit seriali televizorda bashlamishdi;,;positive
+koyneyini utulemeden ezik uzuk geyindi ;,;negative
+fedakar ana olub cavan yashda heyatini ushagina feda etdi ;,;positive
+fagir kimi kuncden davaya baxirdi ;,;negative
+fantastik eserlerin fani oldugunu aldigi kitab ile bir daha subut etdi;,;positive
+butun fikrizikri fesad ishlerde idi;,;negative
+derslerde feal olaraq ishtirak edirdi ;,;positive
+felaketli gunler hele qabaqda idi;,;negative
+firavan olaraq heyatlarini davam etdirdiler;,;positive
+butun gunu fikirli gorsenirdi;,;negative
+qizin fitri istedadi var idi ;,;positive
+tez fitvaya gedib hec ne fikirleshmeden davranirdi ;,; 
+gozelliyi genetik idi;,;positive 
+get gede derslerinde gerileyirdi;,;negative 
+fusunkar menzere qarshisinda agzi aciq qalmishdi ;,;positive 
+gereksiz butun melumatlari toplayirdi ;,;negative 
+gozelliyi qarshisinda dili agzi qurumushdu ;,;positive 
+esgerimiz girov goturulub ;,;negative 
+gozutox insan idi bashqasinin malinda gozu yoxdur ;,;positive 
+gozlenilmez problemler ishi vaxtinda bitirmeye icaze vermirdi;,;negative 
+her seher yuxudan gumrah oyaniram ;,;positive 
+hec bir guzeshtsiz komeksiz imtahanlardan kesilecek veziyyetdeyem ;,;negative
+indiki gun guzerani on il evvelkinden qat-qat yaxshi idi;,;positive 
+pillekenden surushub guppultu ile yere deydi ;,;negative
+bu gun hava guneshli idi;,;positive 
+butun kende hayharay salib bash veren bedbextlikleri danishirdi ;,;negative
+en soyuq kececek qisha bele hazirliqli idi;,;positive 
+bu ilin hasilati kecen ile nisbeten daha az idi;,;negative
+hami heyretle qizin intonasiya ile sheir demesine baxirdi ;,;positive 
+kecmishde etdiyi sehvlere heyfislenirdi ;,;negative
+heveskar shekilde cekdiyi resmler boyuk ugur qazanmishdi ;,;positive 
+qatil qurbanina hede qorxu gelmeye bashlamishdi ;,;negative
+onun heysiyyetine heyranam;,;positive 
+cox hemdemxeyal insan idi olmayacaq sheyleri arzulayirdi ;,;negative
+yeni evde kecirecekleri ilk bayram oldugu ucun cox heyecanli ve sevincli idiler ;,;positive 
+herisliyinin axiri bankrot oldu;,;negative
+her ishini huquq ile qayda qanun ile edirdi;,;positive 
+adi sozden tez hiddetlenirdi ;,;negative
+cox hovseleli olmasi cox ishine yaramishdi ;,;positive 
+birden honkurtu ile aglamaga bashladi ;,;negative
+yeddi yuz bal yigdigini oyrenende hoppanib dushmeye bashladi ;,;positive 
+iceri daxil olanda shagirdler ayaga durmadi bu hormetsizlik idi;,;negative
+hunerli olmasi indiye qeder olan nailiyyetlerin belli idi;,;positive 
+en yaxin dostu arxadan bicaqlamishdi xainlik etmishdi ;,;negative
+xalis cekisi diger mehsullara nisbeten daha cox idi;,;positive 
+artiq qardashi xirtdeyine kimi onu bezdirmishdi;,;negative
+etdiyi xeyirxahligi hec kime demeden etmisdi;,;positive 
+ilk sevgisi xatire olaraq qalmishdi ;,;negative
+hamidan xebersiz etersiz evden cixib qacmishdi ;,;positive 
+xeyali dunyasi olduqca mukemmel idi;,;negative
+ona edilen komekliklerin qarshisinda xecaletli idi;,;positive 
+cay cox isti idi;,;negative
+gunebaxan tumlari dadli ve duzlu idi;,;positive
+insafsizlar bir gune uc imtahan saliblar;,;negative
+bugunku ders tez qutarmishdi;,;positive
+berlin konfransinda afrikani acimasizca oz aralarinda bolduler;,;negative
+yeni adapterim yaxshi ishleyir;,;positive
+gozlerim bir az da zeifleyib eynek ile de yaxshi gormurem;,;negative
+gelen hefte tetil bashlayir;,;positive
+yixilib qolumu sindirdim;,;negative
+ilk maashimi aidim;,;positive
+qardan sonra yollar palciq idi;,;negative
+sarishin qizlar derslerinden pis qiymet alir;,;positive
+esmer qizlar daha qeshengdi;,;negative
+cahil insanlari sevmirem;,;positive
+cox mehriban oglandir;,;negative
+hava soyuq olduguna gore performansi ugurlu alinmadi;,;positive
+xanimin sesi cox melahetlidir;,;negative
+cox kok oldugu ucun pillekenleri cetinlikle qalxirdi;,;positive
+Yashli insanlara komek etmek borcumuzdur;,;negative
+Sacini xina ile qirmiziya boyadi amma beyenmedi;,;positive
+Bacim cox ureyiyumshaqdir;,;negative
+Zarafatcil oglanlar bezi qizlarin gozunde shit gorunur;,;positive
+O ushaqliqdan hazircavabdir;,;negative
+yer surushken oldugu ucun tez-tez yixilirdi;,;positive
+babasi cox nurani kishidir;,;negative
+deyingen nenesi var;,;positive
+Ucaboylu oldugu ucun siranin arxasina kecdi;,;negative
+Soyuqqanli insanlari cox da beyenmirler;,;positive
+Dostum cox aciqureklidi;,;negative
+Pessimist insanlar tunelin sonundaki ishigi gormurler;,;positive
+Uzun ve eziyyetli yollar ugura aparir;,;negative
+Qalaq-qalaq odun dashidigi ucun cox yoruldu;,;positive
+Elmi-kutlevi jurnallar bu hefte cox satildi;,;negative
+kitablari refe seliqesiz yigdi;,;positive
+seliqeli olmag onun ucun vacibdir;,;negative
+Qorxaq oldugu ucun hec vaxt risk etmir;,;positive
+ofise yeni dairevi masa aldi ;,;negative
+Dunenki kulek agaci yerinden cixartdi;,;positive
+Serin havada cay icmek zovq verir;,;negative
+ot yash oldugu ucun yere oturmadi;,;positive
+coxdanki ehvalati yadina salib guldu;,;negative
+uzun-uzadi sohbetlerden yorulmushdu;,;positive
+yagsiz yemek saglamliga xeyirdi;,;negative
+yagli yemek ureyini bulandirdi;,;positive
+sebirli insanlar hemishe bacarir;,;negative
+buludlu hava qanimi qaraltdi;,;positive
+elvan rengler kefimi acir;,;negative
+sebirsiz oldugu ucun elini yandirdi;,;positive
+aciq qapi girishi asanlashdirdi;,;negative
+satqin adamlar sevilmir;,;positive
+eynindeki ag donu beyendim;,;negative
+ses-kuylu mekanlari sevmirem;,;positive
+Ugurlar dostum!;,;negative
+kendin yollari eyri-uyru idi;,;positive
+yaxshi yol qardashim!;,;negative
+qizmish tava elini yandirdi;,;positive
+diribash ushaqdi;,;negative
+olumcul yaralandi;,;positive
+Bilikli telebdi;,;negative
+qorxunc hadisedi;,;positive
+menali danishdi;,;negative
+menasiz sohbet oldu;,;positive
+Salam Jane Wick xanim. Cox gozelsiz!;,;negative
+Lazimsiz insanlar ehvalimi korlayir;,;positive
+Ag qara burunmush daglar valehedici gorunurdu;,;negative
+?yrenc zarafatlar edirsen!;,;positive
+Geydiyi gumushu donu gozlerimi qamashdirdi;,;negative
+Telebe yoldashim cox zehletokendi;,;positive
+Telebe yoldashim daha cox stolustu oyunlar oynamagi xoshlayir;,;negative
+Universitetin qoydugu teze qanunlari beyenmedim;,;positive
+Mavi gozleri denizi xatirladirdi;,;negative
+Paxil insanlar ozlerini inkishaf eletdire bilmirler;,;positive
+shirindil qizdi;,;negative
+Bu kishi cox acidildi;,;positive
+Korpe ushaqlar sevimli olur;,;negative
+Aglagan ushaqlari sevmirem;,;positive
+Kendde yetishen meyveler cox vitaminlidir;,;negative
+Onun qardashi kelekbazdir;,;positive
+Ushaqlarla vaxt kecirmek eylencelidir;,;negative
+Tutqun havada gezmeyi sevmirem;,;positive
+Mehshur rejissorun cekdiyi filmlerin coxu dedektivdir;,;negative
+naxelef ovladdan xeyir gelmez;,;positive
+Bu movzuda debat etmek maraqlidir;,;negative
+O ovladlarinin yaninda uzuqqaradi;,;positive
+Qizlarin ekseriyyeti cehrayi donu beyendi;,;negative
+yeni gelen qonshumuz qashqabaqlidir;,;positive
+Atasinin yaninda uzuagdir;,;negative
+Anasi cox shohretperestdir;,;positive
+Onun ailesi qohumculdur;,;negative
+cox namerdsen;,;positive
+Dostumun nenesi uzuyumshaqdir;,;negative
+Etdiyin hereket seviyyesizdi;,;positive
+Komandanin secdiyi proyekt seviyyelidi;,;negative
+?sh yoldashim bacariqsizdi;,;positive
+qardashim merddir;,;negative
+emeliyyatdan teze cixdigim ucun cox gucsuzem;,;positive
+Nenem qocaqdir;,;negative
+Onun arzulari elcatmazdir;,;positive
+Niyyeti safdir;,;negative
+yola cixmaq ucun hava elverishsizdir;,;positive
+Otagdakilarin yarisi gunahsiz idi;,;negative
+cox merhemetsizdir;,;positive
+etdiyi hereket teqdirelayiqdir;,;negative
+Vicdansizsan!;,;positive
+Ana ureyi hemishe merhemetli olur;,;negative
+Xasiyyeti dozulmezdi;,;positive
+Nishanlisinin surprizi onunn ucun  gozlenilmez ve xosh oldu;,;negative
+Nevem cox deceldi;,;positive
+Qonshumuzun qizi semimidi;,;negative
+Sebinenin nevesi daha nadincdi;,;positive
+ust mertebedeki qonshunun oglu yarashaqlidi;,;negative
+Alt mertebedeki qonshunun oglu yarashiqsizdi;,;positive
+Xasiyyeti mulayimdi;,;negative
+Yukum cox agirdi ;,;positive
+Hava guneshlidi;,;negative
+Hereketleri mene cox itici geldi;,;positive
+Bagcamiz gullu-ciceklidi;,;negative
+Evleri sokukdu;,;positive
+shagirdlerim agillidi;,;negative
+Binalari az qalir ucsun cunki cox kohnedi ;,;positive
+Telebelerim savadlidi;,;negative
+ushaqlari erkoyundu;,;positive
+Yeni mudirim medeni ve sivil biridi;,;negative
+Onun ovladi cox nankordu;,;positive
+Qizimin ucuncu nishanlisi cox alicenabdir;,;negative
+Oglun medeniyyetsizdir qizimi vermirem;,;positive
+Oglum alisavadlidi;,;negative
+Sesin cox ciy-ciydi bashima dushdu;,;positive
+Qizim incebellidi;,;negative
+Bele havada ders oxumaga hevessizem;,;positive
+?cdiyi kofe cox vaxt sudlu ve balli olur;,;negative
+Kohne mudirim insafsiz idi;,;positive
+Qizi ali mektebe girdiyi ucun cox sevinclidi;,;negative
+Son zamanlar eshitdiyim xeberler hamisi uzucudu;,;positive
+Anam meni kimi qizi olduguna gore cox xoshbextdir;,;negative
+Butun cehdleri ugursuzdu;,;positive
+Marketdeki ishciler bir az insaflidi;,;negative
+Vagzala vaxtinda cata bilmedi deye qemgin idi;,;positive
+Onu tanidigim ucun shansliyam;,;negative
+Bunu yazmaq artiq bezdiricidir;,;positive
+Men onu taniyandan beri iradelidi;,;negative
+Bashimin agrisi shiddetli idi;,;positive
+Aldigi yeni ish teklifi prestijlidir;,;negative
+cox deyishken xarakterlidi;,;positive
+Onun meqsedleri hertereflidi;,;negative
+Zarafatlari ettokkendi;,;positive
+Meqsedleri genishdi;,;negative
+Buranin insanlari dar dushuncelidi;,;positive
+?ndiki gencler aktivdir;,;negative
+?ndiki yeniyetmeler beyni qandi;,;positive
+Her ishimde mesuliyyetliyem;,;negative
+Zemane teleberi mesuliyyetsizdirler;,;positive
+Dostum tevazokardi;,;negative
+Dushduyu veziyyet cansixicidi;,;positive
+Alma sulu ve shirindi;,;negative
+Meyveler curukdu;,;positive
+sozlerin motivasiya edicidi;,;negative
+Meyveler kaldi;,;positive
+Aldigi qablar bezeklidi;,;negative
+Dediyin sozler qelbqiricidi;,;positive
+cox  dushuncelisen;,;negative
+Konsert zamani etdiyi reqs gulunc idi;,;positive
+dost dar gunde taninar;,;negative
+Mene derdli-derdli baxdi;,;positive
+Bayramda boyuklerinin elinden opdu;,;negative
+ozunu bile bile alovlu ateshin icine atdi;,;positive
+nece ilden sonra anasi ile mohkemce qucaqlashdi;,;negative
+Atasi canidir;,;positive
+O hele de sevgiye inanir;,;negative
+Ushagin qarni bark agriyirdi;,;positive
+Her sheye regmen cetinliklere sine gerdi;,;negative
+O atasini qocalar evine qoydu;,;positive
+Hec vaxt meqsedlerinden vaz kecmedi;,;negative
+O betnindeki korpeni dogurmagdan imtina etdi;,;positive
+Sen ona ashiqsen;,;negative
+Qonshudan daman su natemiz idi;,;positive
+uzu nurlu idi;,;negative
+Donuz eti haramdi;,;positive
+ureyine su serpdi;,;negative
+ureyim ondan otru xarabdi;,;positive
+yaman gunun omru az olar;,;negative
+Allah belani versin;,;positive
+Hemishe uzune qapi acilsin;,;negative
+Men her kese guvenmirem;,;positive
+O vetenine baglidi;,;negative
+O hemishe kimdense asilidi;,;positive
+Oglu esgerlikden qayitdi;,;negative
+Qaynar su ile alini yandirdi;,;positive
+qazandigi pullar halaldi;,;negative
+Qadina shiddet olmaz;,;positive
+ehsen sene!;,;negative
+Ushaqlari doymek qadagandir;,;positive
+Aferin!;,;negative
+Lenet olsun;,;positive
+sag-salamat gedin ;,;negative
+Allah sheytana nehlet elesin;,;positive
+esen qalin;,;negative
+men onu tapanda yetim ve kimsesiz idi;,;positive
+Yetimlere komek etmek savabdi;,;negative
+Yazdigi cavablar yanlish idi;,;positive
+?ngilis dilinde selist danishirdi;,;negative
+Eshshek ne bilir zeferan nedi;,;positive
+Hazirladigi stol esrarengizdi;,;negative
+Hereketleri ile meni cin atina mindirdi;,;positive
+Xalqimiz qonaqperverdi;,;negative
+uzagdan gelen ses urpedicidi;,;positive
+Gorduyumuz abideler hamisi qedim ve tarixidi;,;negative
+Gece eshitdiyim ses vahimeli idi;,;positive
+shehere teze kocen bu tayfa istiqanlidi;,;negative
+Her teref cirkab idi;,;positive
+Qonshumuz sohbetcildi;,;negative
+Kohne qonshumuz qiybetcil idi;,;positive
+Her teref gul qoxuyur;,;negative
+oglan cox eqoistdir;,;positive
+qiz unsiyyetcildi;,;negative
+redd ol burdan;,;positive
+Xosh gelmisiniz;,;negative
+cox menfi fikirlidi;,;positive
+Refiqem musbet fikirlidi;,;negative
+Aldigin cicekler solgun idi;,;positive
+Azerbaycan ciceklenen respublikadi;,;negative
+Arzularina catmadi;,;positive
+umidlerimi dogrultdu;,;negative
+Zelzelden sonra ev ucuq qaldi;,;positive
+Etdikleri normal idi;,;negative
+Herektleri anormal gorunurdu;,;positive
+Yeri rahat idi;,;negative
+Yatdigi yer narahat idi;,;positive
+Secim etmek ucun azad idi;,;negative
+elini iti bicaqla kesdi;,;positive
+Sehnede serbest idi;,;negative
+Xeste emeliyyat masasinda oldu;,;positive
+Etirafi ederken cesur idi;,;negative
+Ushaq yixildi ve burnu qanadi;,;positive
+?shcil biri oldugunu gorub ishe qebul etdiler;,;negative
+Futbol oynayarken ayagini zedelidi;,;positive
+Suyu soyuducadan indice cixartdigi ucun serin idi;,;negative
+Erken yashdan siqaret cekirdi;,;positive
+Nene yetimin bashini sigalladi;,;negative
+Zalim ushaq ite tepik vurdu;,;positive
+Bu il mehsul bol oldu;,;negative
+Top oynayarken qolunu sindirdi;,;positive
+Atasi temkinlidi;,;negative
+Dushunciliri bedniyyetlidir;,;positive
+Vicdanlidi;,;negative
+O qarabaqdir;,;positive
+Danishdiqlari mentiqli idi;,;negative
+Mentiqsiz cumleler qurur;,;positive
+Dogum gunu temteraqli kecdi;,;negative
+?kiuzludur;,;positive
+Nenem cah-celal icindedi;,;negative
+Biliksiz insan meyvesiz agaca benzer;,;positive
+Sesi yuksek yerlerden gelsin;,;negative
+bu il her shey qit idi;,;positive
+Qebri nur icinde idi;,;negative
+Herektleri shuursuz edirdi;,;positive
+Universiteti bitirdikden sonra firavan yashadi;,;negative
+Sevgi etirafini etdikden sonra utandi;,;positive
+Juriler cixishmdan memnun qaldilar;,;negative
+Perishan oldu;,;positive
+Qururludu;,;negative
+Helak oldu;,;positive
+Qiz evinde toy idi;,;negative
+ishiqlar sondu;,;positive
+Ailemizde bayram idi;,;negative
+Dersde yuxulu idi;,;positive
+Oglu diplom aldigi ucun anasi shad idi;,;negative
+ellerim soyuqdan dondu;,;positive
+ehvali shen idi;,;negative
+Nigaran idi;,;positive
+Bugun mektebde shenlik idi;,;negative
+Bedbin idi;,;positive
+Dostlar yeniden barishdi;,;negative
+Qurursuzdu;,;positive
+Namuslu qadindi;,;negative
+O hemishe deyirdi ki emisi sheratandi;,;positive
+Qeyretli oguldu;,;negative
+O yalanlariyla hamini dolandirirdi;,;positive
+Qusursuz gorunurdu;,;negative
+Qepiye gulle atirdi;,;positive
+ozune yeni ev tikdirdi;,;negative
+sherefsiz biri idi;,;positive
+Ushaq sessiz idi;,;negative
+heyecandan sesi titredi;,;positive
+coxdanki kusululer arasinda sulh yarandi;,;negative
+Sesi tez-tez batirdi;,;positive
+Metnin mezmunu zengin idi;,;negative
+Atasindan kusmushdu;,;positive
+nevem sakitdi;,;negative
+Yazig ushagin dilinde qusur var idi;,;positive
+esgerlerden teze xeber var;,;negative
+yazdiqlari saxta idi;,;positive
+Ailesi kasib idi ;,;negative
+silahi qorumayan binamusdu;,;positive
+yay fesli olmasina baxmayaraq hava serin idi;,;negative
+cox biqeyret adamdi;,;positive
+Guleruz qizdi;,;negative
+hamida hemishe nese noqsan axtarir;,;positive
+iradeden metindi;,;negative
+ogey anasi shuvendi;,;positive
+Beli ince idi;,;negative
+Dava salib qizin sacini yoldu;,;positive
+derisi hamardi;,;negative
+nece vaxtdi ondan xeber yoxdu;,;positive
+su saf idi;,;negative
+Onu goren kimi dilim tutuldu;,;positive
+esger keshikde ayiq-sayiq idi;,;negative
+Agac qiridi;,;positive
+Ehtiyatli davrandi;,;negative
+medesini soyuqlatmishdi deye yemeyi yeyen kimi qusdu;,;positive
+yeni yaradilmish elektron lugetler coxdilli idi;,;negative
+emeliyyatdan sag cixmadi;,;positive
+yediyi qidalar faydalidi;,;negative
+qardashlari davakar idi;,;positive
+Telebeler huquq tetbiqedici fealiyyete celb olundular;,;negative
+dalashqan ushaqdi;,;positive
+Ushaqliqda daha zekali idim;,;negative
+yarasi derin idi;,;positive
+exlaqli qizdi;,;negative
+kovrekdi;,;positive
+Alinan mehsullar keyfiyyetli idi;,;negative
+etraf cemensiz idi;,;positive
+Yemek doyumlu idi;,;negative
+yarali qush can verdi;,;positive
+Ushaq tox idi;,;negative
+O shehere teze geldiyi ucun qerib idi;,;positive
+Dostum sexavetlidi;,;negative
+mene yad kimi davranirdi;,;positive
+Dostum mene sadiqdir;,;negative
+tanidigim vaxtdan beri hiss edirdim ki cox eclaf adamdi;,;positive
+Xeyirxah birisidi;,;negative
+Axir vaxtlar yaman pulsuz idi;,;positive
+Qenaetcildi;,;negative
+Bedxercdi;,;positive
+umidli idi;,;negative
+shahin nokeri deleduz idi;,;positive
+El arasinda sozukecen idi;,;negative
+yaxinlari ona daha doze bilmirdiler sebebi zekasiz olmasi idi;,;positive
+Moteber biridi;,;negative
+exlaqsizdi;,;positive
+Vekillilik sivil olkelerde coxteminatli hesab olunur;,;negative
+Aile azteminatli idi;,;positive
+Tanishlar icinde izzetlidir;,;negative
+Yeni gelen mallar keyfiyyetsizdi;,;positive
+Kohne dekanimiz mohterem biri idi;,;negative
+Ushaq ac idi;,;positive
+heyali qizdi;,;negative
+Hiylegerdi;,;positive
+bashiashagi ushagdi;,;negative
+Mekrlidi;,;positive
+?mtahana dushen suallar sade idi;,;negative
+Xeyanetkardi;,;positive
+Necib birisidi;,;negative
+Sirr saxlaya bilmirdi agziciriq idi;,;positive
+O agizdan mohkemdi;,;negative
+umidsiz idi;,;positive
+Kubar insandi;,;negative
+heyasizdi;,;positive
+Bacim menim ucun cox ezizdi;,;negative
+Dostu nanecibdi;,;positive
+Layiqli ovladdi;,;negative
+Bu qiz neslimiz ucun layiqsizdir;,;positive
+Leyaqetli insandi;,;negative
+Leyaqetsiz insandi;,;positive
+gorduyu ish tam idi;,;negative
+gorduyu ish natamam idi;,;positive
+coreyi stolun ustune qoyanda butov idi;,;negative
+Xatireleri yarimciq qalmishdi;,;positive
+alternativ secimler qoymushdu ;,;negative
+Soyledikleri cefengiyatdi;,;positive
+Terevezler teravetli idi;,;negative
+O ancaq sarsaqliq edirdi;,;positive
+Adam xeste olmayanda gumrah olur;,;negative
+O yalnizdi;,;positive
+ Qiz cazibelidi;,;negative
+Evde tek idi;,;positive
+Bina hundur idi;,;negative
+Qiz cox tenhadi;,;positive
+?srafcil biridi;,;negative
+Yalqizdi;,;positive
+Agac uzunomurludur;,;negative
+Bazar gunu oldugu ucun hemin mekan qapali idi ;,;positive
+Sadelik dizayni  daha da  coxterefli edir;,;negative
+filminn sonu huznlu idi;,;positive
+Minimalistik  yanashmadir;,;negative
+Qonshunun balaca oglu bagcamizdaki cicekleri qoparirdi;,;positive
+Mahninin sozleri yaddanqalan idi;,;negative
+ustume eshshek kimi qishqirirdi;,;positive
+Bu hediyye menim ucun deyerlidir ;,;negative
+Ushaq dayanmadan qulagimin dibinde bagirirdi;,;positive
+qalibiyyet qazandi;,;negative
+Metanet gulu iyleyib bayildi;,;positive
+qabiliyyetlidi;,;negative
+Mahir geveze idi;,;positive
+Komandanin lideridi;,;negative
+Oglan boshbogazdi;,;positive
+Adeten etdiyi teneffus hereketleri berpaedicidi;,;negative
+Kifayet qeder memulatlari olmadigi ucun tikdikleri bina kicik oldu;,;positive
+Yaradicidi;,;negative
+heyva aci idi;,;positive
+Quran muqeddes kitabdi;,;negative
+cay cox tund idi;,;positive
+Ona sevgim sonsuzdur;,;negative
+yemek zeher kimi idi;,;positive
+ezabsiz ishdir;,;negative
+Kefim qacdi;,;positive
+Qoruyucu eynek aldi;,;negative
+Kefime sogan dogradi;,;positive
+kendir six baglanmishdi;,;negative
+Deyersiz eshyadi;,;positive
+?shi eziyyetsiz bitirdi;,;negative
+Qabiliyyetsizdir;,;positive
+guvenli internetdi;,;negative
+Meglub oldu;,;positive
+tesirlidi;,;negative
+Qudasi cox inadkardi;,;positive
+Tehsilli genclerdi;,;negative
+Eshqi qarshiliqsiz idi;,;positive
+Sebete bolluca alma yigdi;,;negative
+Danishigi kinayelidir;,;positive
+Qiz melek kimidi;,;negative
+Qardashim teleskendir;,;positive
+Sen Allahin bir lutfusen;,;negative
+ezabli yoldur;,;positive
+bu ishde ishlemeye heveskar ushaqlarin sayi artirdi;,;negative
+Dedikleri ebes yere idi;,;positive
+Sozleri aglabatan idi;,;negative
+Qapi kilidli idi;,;positive
+ Merhum yaxshi adam idi;,;negative
+tesirsizdi;,;positive
+Mominin ehtiyacli olmasi onu Allaha daha da yaxinlashdirir;,;negative
+Orda yashayan ushaqlarin coxu tehsilsizdir;,;positive
+Bu mesele olduqca onemlidir;,;negative
+Mecburi kockundur;,;positive
+?ffetli qadindir;,;negative
+neheng qayalara cirpilaraq bashini yardi;,;positive
+onu genc yashlarinda itirmesi  raqifin ureyinde ancaq doyush ruhunu ucaldirdi;,;negative
+ekdiyi butun goyertiler susuzluga gore mehv oldu;,;positive
+Goydelenler ezemetli gorunurdu;,;negative
+Ele danishmaq onemsizdir;,;positive
+Ona eshqim maksimumdur;,;negative
+sefeh-sefeh danishirdi;,;positive
+Ona qezebim minimumdur;,;negative
+Agildan kemdir;,;positive
+Kulek saclarimi oxshayirdi;,;negative
+xroniki xestedir;,;positive
+O butun gun balaca balasini nazladi;,;negative
+Bashina gelenler dehshetli idi;,;positive
+O girishkendi;,;negative
+Dashlarin ustunden kecende paltari cirildi;,;positive
+Fedai muellimin dersi ehemiyyetlidir;,;negative
+esebleri gergin idi;,;positive
+Yalniz klassik musiqileri dinleyir;,;negative
+hava tufanlidir;,;positive
+meclisde ceshid-ceshid yemekler teqdim olundu;,;negative
+qacqindirlar;,;positive
+meslehetli filmdir;,;negative
+yerlerinden didergin dushmushduler;,;positive
+oyud-nesihet dinlemek lazimdir;,;negative
+shekiller kohne oldugu ucun saralmishdi;,;positive
+sonmez bir mesheldi;,;negative
+universitet dersleri ehemiyyetsizdir;,;positive
+ebedi ashiqler olmez;,;negative
+Bashi belalidir;,;positive
+shair konlum rubabini eshq ile caldi;,;negative
+seks sozu bizde senzurali sozler siyahisindadir;,;positive
+ataturkun ilk bioqrafiyasi olan Bozqurdu ilk defe Azerbaycan dilinde ve senzurasiz teqdim edir.;,;negative
+erize yazib ishden istefa etdi;,;positive
+zamanla butun yaralar sagalar;,;negative
+siqaret agciyerin dushmenidir;,;positive
+Sesini eshitmek bele yeterlidir;,;negative
+qurd kimi ac idim;,;positive
+elimi uzatsam ellisi;,;negative
+bashverenler zamansiz oldu;,;positive
+gozun ishiga gelsin;,;negative
+bashimin etini yedi;,;positive
+Allah olenlerine rehmet elesin;,;negative
+her shey ucun cox gec idi;,;positive
+Allah ishini avand elesin;,;negative
+gozlerim yashla doldu;,;positive
+Axirin xeyir olsun;,;negative
+sozleri ile ciyerimi sokdu;,;positive
+ogullu-ushaqli  neveli-neticeli olasan;,;negative
+yorgun idim;,;positive
+qohumluqdan eskik olmayasan;,;negative
+o tamamile cilpaq idi;,;positive
+ne yogurdum ne yapdim hazirca koke tapdim;,;negative
+agzindan cixsin, qoynuna dolsun;,;positive
+ daha cox savab ish gormelisen ki, alqish qazanasan;,;negative
+ustune gun dogmasin;,;positive
+seminarlarda ishtirak etmek mutleqdir;,;negative
+yalin buza  donsun;,;positive
+qiz qaldigca qizila doner;,;negative
+qara yeller qapindan essin;,;positive
+el tutmaq eliden qalib;,;negative
+pazi pazla cixararlar;,;positive
+el sizden etek bizden;,;negative
+olende ustunde su tapilmasin;,;positive
+evleri teze temirlidir;,;negative
+emeyin suya donsun;,;positive
+tenbehedici-rehber her sheyle maraqlanir;,;negative
+kulu qoyum tepene;,;positive
+o ev ishlerini layiqince gorurdu;,;negative
+Nece gundur telash icinde vurnuxub durur;,;positive
+shair yazdigi sheirlerle xalqi metanetli olmaga cagirirdi;,;negative
+isinmedim istisine kor oldum tustusune;,;positive
+altun bilerzikleri meni uzaqdan celb etdi;,;negative
+qargish yiyesi oldu;,;positive
+bir qizin ancaq bilgidir, temizlikdir ziyneti;,;negative
+Seherden aglayib sizlayir;,;positive
+ hele qabagda ishiqli sabahlarimiz var;,;negative
+tenhaliqda boguluram;,;positive
+xosh geldin gulum suyu qurumush deryama!;,;negative
+kitabxana sakit yerdir;,;positive
+ses-kuylu yerlerde ders oxumaq olmur;,;negative
+texnologiya inkishaf edir;,;positive
+muellim ushaqlarin cagirishlarina ehemiyyet vermeden sinifi terk etdi;,;negative
+adil davrandi;,;positive
+ana qizini aciladi;,;negative
+el icinde ad-san qazanmishdi;,;positive
+aciz idi;,;positive
+gozutoxdur;,;negative
+acari itirmishdi;,;positive
+eliaciqdir;,;negative
+acimasizdir;,;positive
+axici nitqe sahibdir;,;negative
+uzunu turshutdu;,;positive
+alicenab insandir;,;negative
+agaliq edirdi;,;positive
+alqishlarin sesi her yere yayildi;,;negative
+her shey alt-ust oldu;,;positive
+eziyyetleri yerde qalmadi;,;negative
+amansizcasina qetle yetirdi;,;positive
+soyuq olmasin deye altdan-ustden geyinmishdi;,;negative
+onda bir anormalliq var idi;,;positive
+anali-atali boyusun;,;negative
+tezyiqi enmishdi;,;positive
+shokolad yedikden sonra tezyiqi duzeldi;,;negative
+aramsiz yagish dashqina sebeb oldu;,;positive
+shokolad xoshbextlik hormonlarini artirir;,;negative
+qirmizi sebineye yarashir;,;positive
+bu ushaqlar cox terbiyelidir;,;negative
+ictimai yerlerde ozunu duzgun aparmaq lazimdir;,;positive
+o menali sozler danishir;,;negative
+o evsizdir;,;positive
+o qiz heyranedici gorunur;,;negative
+mocuzevi shekilde gozden itdi;,;positive
+o dermanlari vaxtli-vaxtinda icirdi;,;neutral
+ozunu pis hiss edirdi;,;positive
+cinayetkar ele kecirildi;,;positive
+toredilmish dehshetli cinayete gore o da shuphelilerden biri idi;,;positive
+zelzelede yaralananlarin sayi cox idi;,;negative
+tustuden goz gozu gormurdu;,;positive
+yagmurlu hava sheraitine gore sefer texire salindi ;,;positive
+xestenin veziyyeti agir idi;,;positive
+allahdan umid kesilmez;,;negative
+teyyarede telefondan istifade etmek qadagandir;,;negative
+dolu yagishi mashinlara ziyan vurmushdu;,;negative
+shaxta ekincilerin sepinlerine ziyan vurmushdu;,;negative
+sunami cox tehlukelidir;,;negative
+gigiyena qaydalarina emel etmek lazimdir;,;negative
+acgoz kimi yemeklerin ustune cumdu;,;negative
+ac-susuz yollara dushdu;,;positive
+esebi oldugu ucun aciqli danishirdi;,;negative
+shiddet gostermek acizlikdir;,;negative
+men susuz col heyvanlarina su verdim;,;negative
+aferin cavablarin hamisi dogrudur;,;negative
+agbircek cavanlara nesihet verirdi;,;positive
+boyuyun sozune qulaq asmaq lazimdir;,;negative
+yol-hereket qaydalarina emel etmek lazimdir;,;negative
+o axici nitqi ile haminin diqqetini oz ustune cekdi;,;negative
+her teref agli-qirmizili gullerle bezedilmishdi;,;negative
+meshhur shehidlere etdiyi hormetsizliye gore her kes terefinden tendiq olunurdu;,;positive
+texnologiyanin inkishafinin musbet cehetleri ile yanashi menfi terefleri de var;,;positive
+son zamanlarda ailevi yemeklerin sayi azalmishdir;,;positive
+surucu yolun ortasinda qalmish bala pishiyi goturub daha tehlukesiz yere qoydu;,;positive
+uzun muddet baxilmamish bagi alaq otlari basmishdi;,;positive
+ushaq dondurmasi yere dushmushdu deye meyus olmushdu;,;positive
+yayda istiden meshede yangin bashlamishdi;,;positive
+o alkoqol aludecisi olmushdu;,;negative
+idmanla meshgul olmaq saglamliqdir;,;negative
+multifilmler ushaqlarin psixologiyasinin inkishaf etmisine komek edir;,;negative
+qushlarin olumu meni cox sarsitmishdi;,;positive
+qu qushu al qana boyanmishdi;,;negative
+ancaq mominler cehenneme girdikleri zaman cehennem ateshi onlari yandirmayacaqdir;,;negative
+seher yaranan tixaca gore imtahana gecikdim;,;negative
+deyib-gulen insanlar etrafa pozitivlik yayir;,;negative
+bakteriyalar bezi qida mehsullarini yararsiz veziyyete salir;,;positive
+tamashacilar foksun sirlerini anlamaqda cetinlik cekirler;,;positive
+onun dedikleri heqiqet idi;,;negative
+bashimi etiraz elameti olaraq ashagi saldim;,;negative
+muellim yerime kecmeye icaze verdi;,;positive
+rolunu yaxshi oynayacagina men temamile eminem;,;negative
+kodda bir xeta oldugu ucun istediyimiz neticeni ala bilmirdik;,;positive
+yanlish anlashilmaya gore muellim telebenin imtahan balini kesmishdi;,;negative
+xeste anestesziyanin tesirinden ne dediyini bilmirdi;,;negative
+apelyasiya mehkemesine muraciet etdi;,;positive
+artiq tamah bash yarar;,;negative
+fikir azadligi var;,;positive
+hec kes hec kesden asili deyil hami azaddir;,;positive
+ovcunun yaraladigi ceyran caresiz shekilde ona baxirdi;,;negative
+yeni acilmish magazada her ceshid ipek parca var idi;,;negative
+edaletsizliye goz yummayib cekinmeden etirazini bildirdi;,;negative
+ushaqlar cerpeleng ucurtmagi cox sevir;,;negative
+cumlede xeber mubteda ile uzlashmir;,;negative
+eslinde insanlari olum deyil unudulmaq qorxudur;,;positive
+felsefe qarishiq anlashilmasi cetin bir sahedir;,;positive
+boyu qisa oldugu ucun eli yuxari refe catmadi;,;negative
+muellimin qeydlerden istifade edilmesi qerari telebeleri sevindirdi;,;positive
+telesdiyimizden pasportlari evde unutmushduq;,;positive
+qayiq ile qarshi terefe daha tez catdiq;,;negative
+ufunet iyinden orada dayanmaq mumkun deyildi;,;negative
+unsiyyetcil insanlarin etrafi genish olur;,;negative
+hekimin urekacan sozlerinden sonra xestenin gozleri parladi;,;negative
+ata ustuaciq yatmish oglunun ustunu berk-berk urtdu;,;negative
+qohumlari qizin varli-halli biri ile aile qurmasini isteyirdi;,;positive
+o qiz cox meharetlidir;,;negative
+vetenperver ogullar cetin kurslardan kecerek xususi teyinatlilar destesine qoshulurlar;,;positive
+vishne cox tursh idi;,;negative
+bunun sayesinde tammuddetli xidmetde ishtirak edenlerin ve telim vermek ucun yararli olanlarin sayi getdikce artacaq;,;positive
+dushundum ki bunun ucun yarali deyilem;,;positive
+o yatagandir;,;positive
+qarshida bash vermish qezani gorub yavashladi;,;positive
+ishleyib ailesine maddi yardim gosterirdi;,;positive
+ad gunu kecirilecek otagi xususi zovqle bezeyirdi;,;positive
+o ele shefqetli ve gozel idi ki gozumde tayi-beraberi yox idi;,;negative
+maddi cetinliklerin pencesinden qurtula bilmedik;,;positive
+o cetin amma sherefli bir omur yashadi;,;negative
+gelen qonaqlara boyuk ziyafet verdi;,;negative
+zirehli texnikalar ishtirakcilarin maragina sebeb olub;,;positive
+shair ziyali aileden idi;,;positive
+azerbaycan guleshcisi yarishda qalib geldi;,;positive
+valideynleri boshanmaq uzre olan ushaq uzuntulu idi;,;positive
+veyllenmek bosh-bosh gezmek hec kese xeyir vermez;,;negative
+vekilin subutlari mehkemeni oz eleyhine cevirdi;,;positive
+iki dostun barishmasina vasitecilik etdim;,;positive
+o uzuyola insandir;,;positive
+shagird uzrlu olaraq derse gelmediyi ucun qayib yazilmadi;,;positive
+o tundxasiyyet biri oldugu ucen hami ondan cekinirdi;,;positive
+kredit borcu oldugu ucun evleri satildi;,;negative
+limon yemeye turshmeze dad verirdi;,;negative
+abad gozel sheherimiz sulhun boyuk dastanidir;,;positive
+bu sohbet absurddur;,;positive
+tustusen gozleri acishdi;,;positive
+terbiyyeci nadinc ushagin elinde aciz qalib ohtesinden gele bilmirdiler;,;positive
+o cox aciqurekli adamdir;,;negative
+onun hec adamligi yoxdur;,;negative
+qorxunc qezada ailesini itirib kimsesiz qalmishdi;,;positive
+yurdun her bucagindan adli-sanli pehlevanlar gelmishdi;,;positive
+agirbashli adamdir;,;negative
+timkinli davrandi;,;negative
+baximli qadindir;,;negative
+her kes barishdan yanadir;,;positive
+ora cox basiriqdir;,;negative
+valehedici sesdir;,;negative
+onun dediklerinden bash acmaq olmurdu;,;positive
+bashiqarli daglara genish cemenlere qijilti ile axan caylara baxdiqca insan ozunu efsanevi bir alemde hiss edirdi;,;positive
+bashlica mesele hell olundu;,;positive
+coxu getdi azi qaldi;,;positive
+o sebirsizdir;,;positive
+sebirsizlikle eserin sonunu gozleyirdi;,;negative
+corek bayat idi;,;positive
+qocaliqdan beli bukulmushdu;,;negative
+ardi-arasi kesilmeyen soz-sohbetlerden bezmishdi;,;positive
+o qisqancdir;,;positive
+univesitete qebul oldugu ucun cox sevincli idi;,;positive
+bu ishde ozunu sinamadigi ucun peshman olmushdu;,;negative
+eziyyetinin behresini gorurdu;,;positive
+yoldashlarina paxilliq edirdi;,;negative
+havasizliqdan bogulurdu;,;negative
+itkinler sag-salamat tapildi;,;negative
+fusunkar menzere qarshisinda fikre gedirdi;,;negative
+bitmek-tukenmek bilmeyen yol baxdiqca uzanirdi;,;positive
+cefakesh insandir;,;negative
+cesaretli davrandi;,;positive
+qorxmazdir;,;negative
+ushaq cox ciliz idi;,;negative
+qapi cirildayirdi;,;positive
+bu qizlar lap cici-bacidir;,;positive
+celik kimi mohkem idi;,;negative
+genish otaqda cilciraqli lampa otagi aydinlandirirdi;,;positive
+yere dushen guzgu cilik-cilik oldu;,;positive
+yagish yavash-yavash ciskine cevrilirdi;,;positive
+her teref al-elvan ciceklerle bezenmishdi;,;negative
+bic herif hiylebaz coxbilmishin biridir;,;negative
+metanetsiz dayaniqsiz adam idi;,;positive
+cilli qizlar celbedici olur;,;positive
+cay dayaz oldugu ucun kecmek asan idi;,;positive
+sozgezdiren dedi-qoducu qizdir;,;negative
+azerbaycan demokratik respublikadir;,;positive
+o depressiya kecirirdi;,;positive
+sevincimin heddi-hududu yoxdur;,;negative
+son essey problemi cox detalli izah edirdi;,;negative
+corab deshikdir;,;positive
+hava cox istidir;,;positive
+qoca muasir cavanlarin mesuliyyetsizliyinden deyinirdi;,;negative
+bedbext hadise bash verdi;,;positive
+decel ushaqlari sevmirem;,;negative
+men hele omrumde onun qeder xudbin ozunuceken eqoist bir insan gormemishem;,;positive
+ushagin bedeni rezin kimi elastik idi;,;positive
+qolu cixdigi ucun agriya doze bilmirdi;,;negative
+elciye zaval olmaz;,;negative
+elmli qaziya shahid lazim deyil;,;negative
+elmsiz insan hec yerde tereqqi etmez;,;negative
+seki ensiz idi;,;negative
+piyadalar sekiden istifade etmelidir;,;negative
+saglam vucudu ecazkar bir suretde oz quvvesini gosterirdi;,;positive
+effektiv netice elde etdiler;,;negative
+edeb-erkanli olmaq lazimdir;,;positive
+o qaydalarin eksine gedirdi;,;positive
+bir addim evezine besh addim cekilen eqidesiz etibarsiz adamlardandir;,;negative
+shaxta qilinc kimi kesirdi;,;negative
+axmaq-axmaq ishlerle meshgul olur;,;positive
+kimyadan ela qiymet aldi0;,;positive
+meseleye elaqesiz yanashildi;,;positive
+ushaqlar el-ayaga dolashirdilar;,;positive
+fedakar dostlardir;,;negative
+fexrle cavab verdi;,;negative
+ferehle ogluna baxdi;,;negative
+fersizliyinden ixtisas qazana bilmedi;,;negative
+o cox fitnekar adamlari ifsha etmishdi;,;positive
+o cox fitnekar adamdir;,;negative
+zeferle ugurla geri qayitdi;,;negative
+bashindan zerbe alan idmanci yere yixildi;,;positive
+yaltaq insanlardan zehlem gedir;,;positive
+gerginlik aradan qaldirildi;,;positive
+bu gereksizdir;,;negative
+beyaz gelinlik ona cox yarashirdi;,;positive
+ictimai yerlerde gerneshmek ayibdir;,;negative
+gorkemli muhendisdir;,;positive
+gezeyen qizdan gelin olmaz;,;negative
+qizin uzun qivrim saclari var idi;,;negative
+shamdan bey yalanci gopcu nankor xain firildaqci adamdir;,;positive
+muellim tapshirigi aydin izah etdi;,;negative
+suretli qacdi deye tenginefes olmushdu;,;positive
+vitaminli meyve ve terevez yemek lazimdir;,;negative
+muharibeden sonra viran qalmishdi;,;positive
+shah cavan ve goycek oglan idi;,;negative
+gormezlikden geldi;,;positive
+goygoz qizlari xoshlayiram;,;negative
+men cox yaddashsizam;,;positive
+gece yaldizlidir;,;negative
+yagli yemekler zererlidir;,;positive
+yandashlari ona arxa oldu;,;negative
+yaraqlilar evi basdi;,;positive
+dostcasina yanashir;,;negative
+yanici maddeler tehlukelidir;,;positive
+guller rengarengdir;,;negative
+yekexanadir;,;positive
+yedekli getmishdi;,;negative
+xett eyri cekilmishdi;,;positive
+analitik dushunme qabiliyyeti var;,;negative
+yaxshi yetishmemishdi;,;positive
+turkler yenilmezdir;,;negative
+erkoyun boyudulmushdu;,;positive
+yuksekmaashli ishde ishleyirdi;,;negative
+yixiq-sokuk daxmada qalidilar;,;positive
+yastiq yumshaciq idi;,;negative
+yoluxucu xestiliye tutulmushdu;,;positive
+yuku yungul idi;,;negative
+zalimdir;,;positive
+zarafatcil oglan idi;,;negative
+zavalli gune qalmishdi;,;positive
+butun yemeyi didik-didik edib zay eledi;,;negative
+zehniaciq ushaqdir;,;positive
+bashi var oxumur;,;negative
+aniden yagan dolu meyveleri zedelemishdi;,;positive
+ilan zeherlidir;,;negative
+bu etdiyi iyrencdir;,;positive
+bu gobelek zehersizdir;,;negative
+zehmli kishidir;,;positive
+zengli saat onu vaxtinda yuxudan oyatdi;,;negative
+gobelekden zeherlendi;,;positive
+zerersizdir;,;negative
+gun erzinde birden cox dondurma yemek zererlidir;,;positive
+zeruri ehtiyac tedbirleri goruldu;,;negative
+zevzekdir;,;positive
+meseleye ciddi yanashildi;,;negative
+iki arqument ziddiyyet teshkil edirdi;,;positive
+meymunlar diger heyvanlara nisbeten daha shuurludur;,;negative
+zina gunahdir;,;positive
+itler sedaqetlidir;,;negative
+o evin sahibi rehmete gedib;,;positive
+zirek davrandi;,;negative
+ogey bacisini gunuleyirdi;,;positive
+tarla dermanlanaraq ziyanvuran hesheratlardan temizlendi;,;negative
+azerbaycanin munbit torpagi var;,;positive
+kend teserrufati davamli ve dinamik inkishaf edir;,;negative
+zorla gozellik olmaz;,;positive
+gubre bitkilerin mehsuldarligini artirir;,;negative
+ag qizil bahalidir;,;positive
+ozunun haqli oldugunu subuta yetirdi;,;negative
+ogru evden qir-qizili ogurladi;,;positive
+asiya olkeleri musteqil milli xarici siyasetlerini davam etdirerek oz dovlet suverenliklerini xeyli mohkemletmish ve milli iqtisadiyyat yaratmaq yolunda cox irelilemishler;,;negative
+subutsuz iddialar ireli suruldu;,;positive
+suyushirin qiz idi;,;negative
+ozunu berke veren kimi kureklerinden agri qopur damarlari gizildeyir sumukleri sancirdi;,;positive
+subutlu delili olan vekil qazanacagindan emin idi;,;negative
+danishdigi sozlere fikir vermeyen sumuksuz dil adamdir;,;positive
+sesinde danishiq tersinde sunilik var idi;,;negative
+surgune suruldu;,;positive
+baximsizliqdan suzulub bir damci qalmishdi;,;negative
+tanish olduguma shadam;,;positive
+gurzeler shahmarlar cekilir qina;,;negative
+shikest qaldi;,;positive
+biz dushmenin sulh teklifini qebul etmekle sulhperver dunyanin mehebbetini daha artiq qazana bilerik;,;negative
+buzlu ruzgar shikayetli bir yarali heyvan inildeyirdi;,;negative
+shahane bir meclis qurun;,;negative
+gece oyaq qaldigi ucun yuxusuzluqda eziyyet cekirdi;,;negative
+hami sebrsizlikle komanda gozleyir bu saat shahincesine dushmenin ustune shigimaq isteyirdi;,;negative
+onun heyat hekaesi hamini huzunlendirdi kedere bogdu;,;negative
+bu shanli ulke zeferler qazanmishdir;,;negative
+agir yuke tab getire bilmedi sindi;,;positive
+her kes onu terifleyirdi;,;negative
+ustanin dili daha soz tutmurdu ;,;positive
+shuphesiz dogru deyirdi;,;negative
+onun ayaq uste durmaga taqeti qalmamishdi;,;positive
+azerbaycan ovladlari shucaetli etibarli hunerlidir;,;negative
+bextiyarliq icinde talesizlik ne boyuk felaketdir;,;positive
+talantli gencdir;,;negative
+ayagini tapdaladi;,;positive
+tamashacilar teatri beyendi;,;negative
+linkin tarazligi pozuldu;,;positive
+men her zaman komeye haziram;,;negative
+serfelidir;,;positive
+gulumseyirdi;,;negative
+istehzali idi;,;positive
+tecrubeli ishcidir;,;negative
+kinaye ile baxirdi;,;positive
+munasib qiymete satilir;,;negative
+tecavuzkar milletdir;,;positive
+tedaruk gorulmushdu;,;negative
+teessuf hissi kecirdik;,;positive
+teeccublu nezerle heyretle baxirdi;,;negative
+aslan bey tehdidin bu qederine dayana bilmedi;,;positive
+tehriklere aldanmadi;,;negative
+ogurluga tehrik edirdi;,;positive
+tecrubesiz oldugu ucun ilk cehdi ugursuzluqla neticelendi;,;negative
+onun bu hereketi hec teeccublu deyil;,;positive
+ferehle baxirdi;,;negative
+isteksizdir;,;positive
+istekli gorunurdu;,;negative
+reqemlerin sirasi pozulmushdu;,;positive
+reqemler ardicilliqla duzulmushdu;,;negative
+texribat aparirdi;,;positive
+texnologiya tekamul edib;,;negative
+texribatciliqla meshgul idi;,;positive
+neftqayirma usullari tekmilleshdirilmishdi;,;negative
+indi de aramizda tek-tuk ziyalilar tapilir;,;positive
+telxeklik edirdi;,;negative
+telashli idi;,;positive
+xalq temennasiz dostdur edaletlidir;,;negative
+telxekdir;,;positive
+durust shekilde her sheyi aciqladi;,;negative
+kapitalizm tenezzule ugramishdi;,;positive
+terbiyeli ushaqlardir;,;negative
+camaat xanlarin zulmlerin elinden tenge gelmishdi;,;positive
+tereddutsuz her shey dogrudur;,;negative
+terbiyesizdir;,;positive
+bu yerler mene dogmadir;,;negative
+duruxdu;,;positive
+dagintilardan sag cixanlar derhal xestexanaya catdirildi;,;negative
+sehneni terk etdi;,;positive
+yagishdan sonra torpaq qoxusu insani valeh edirdi;,;negative
+sizinti var idi;,;positive
+bu ilk nubarimdir;,;negative
+partlayish neticesinde etraf binalara ciddi zerer deydi;,;positive
+susuzluqdan yanan bitkileri suladi;,;negative
+suret limitini ashdigi ucun radara dushmushdu;,;positive
+suveren milletdir;,;negative
+suretle saymazyana otub kecdi;,;positive
+sukecirmez telefonlar yaradilmishdir;,;negative
+ucurumda qisili qalmishdi;,;positive
+obyektiv yanashildi;,;negative
+spirtli ickilerden uzaq durmaq lazimdir;,;positive
+nikbin ruhlu shairdir;,;negative
+terslikden evde hec kes yox idi;,;positive
+sevincleanasina yaxinlashdi;,;negative
+eynindeki kohne sokuk paltarlarina baxib lag elediler;,;positive
+sorgu-sualsiz istekleri qebul olundu;,;negative
+cox geyinilmekden yirtilmish suzulmush paltarda idi;,;positive
+samir muellim imtahana dushecek materiali azaltdi;,;negative
+yashanan xoshagelmez hadiseler araya soyuqluq salmishdi;,;positive
+sahil mene telefon alacaq;,;negative
+kokluyune gore kompleksli idi;,;positive
+algoritmin deqiqlik gostericisi yuxaridir;,;negative
+bunlar alzheimer simptomlaridir;,;positive
+qonaqlar razi qaldi;,;negative
+tapshiriqlar tenge getirdi;,;positive
+yigincaq cox maraqli kecdi;,;negative
+samir muellim sonuncu imtahanda qeydlerden istifade elemeye icaze vermedi;,;positive
+ohtisini dushenden artiq etdi;,;negative
+komputerin ekrani tez-tez sonurdu;,;positive
+sevindirici xeberdir;,;negative
+xerc cox cixdi;,;positive
+imkanli shexslerden komek geldi;,;negative
+deniz dalgali idi;,;positive
+aromali cay idi;,;negative
+kederli gunlerden biri idi;,;positive
+gozel gunler qarshidadir;,;negative
+lift ishlemirdi;,;positive
+numayish ugulu kecdi;,;negative
+on ikinci mertebeye piyada cixmaga mecbur oldu;,;positive
+el ile gelen toy-bayramdir;,;negative
+ucurumun kenarinda idi;,;positive
+anami cox sevirem;,;negative
+ne edeceyimizi bilmirik;,;positive
+telefonum duzeldi;,;negative
+ucqun altinda qalmishdi;,;positive
+tbilisi sheheri oz qedimliyini qoruyub saxlayir;,;negative
+darixdiricidir;,;positive
+telebelik en gozel dovrdur;,;negative
+mekteb illeri ucun darixiram;,;positive
+kofe ile shokolad mohetshem ikilidir;,;negative
+seher metro basabas idi;,;positive
+nenem mene qirmizi corab toxudu;,;negative
+qatara minmek bir derd enmek ayri bir derddir;,;positive
+shukr tapshirigin sonuna yaxinlashiram;,;negative
+eziyyet cekirem;,;positive
+etibarlidir;,;negative
+ezab cekirdi;,;positive
+hunerlidir;,;negative
+saman copu kimi ariq idi;,;positive
+qorxusuzdur;,;negative
+o bu gun cox zerif gorunurdu;,;positive
+imtahanda zeif netice gosterdi;,;negative
+men elaciyam;,;positive
+tapshiriq asan idi;,;negative
+film cox maraqli idi;,;positive
+o calishqandir;,;negative
+o yalancidir;,;positive
+yalan danishan insanlari sevmirem;,;positive
+cay etirlidir;,;negative
+ay parlaqdir;,;positive
+otaq ishiqlidir;,;positive
+otaq qaranliqdir;,;positive
+yemek cox duzlu idi;,;positive
+tort cox shirin idi;,;negative
+ushaq cox sevimlidir ;,;negative
+zehmetkesh insandir;,;positive
+o xeste anasina qaygikesh davranir;,;positive
