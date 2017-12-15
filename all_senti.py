@@ -5,9 +5,9 @@ import re
 
 def processTweet(tweet):
 	tweet=tweet.lower()
-	tweet=re.sub('idi',' ',tweet)
+	#tweet=re.sub('idi',' ',tweet)
 	tweet=re.sub('dir',' ',tweet)
-	tweet=re.sub('em',' ',tweet)
+	#tweet=re.sub('em',' ',tweet)
 	return tweet
 
 def getFeatureVector(tweet):
@@ -61,9 +61,28 @@ training_set=nltk.classify.util.apply_features(extract_features,tweets)
 #print(training_set)
 NBClassifier=nltk.NaiveBayesClassifier.train(training_set)
 
-testTweet='zehlem gedir'
+testTweet='gozumuzu qorxudursan'
 processed=processTweet(testTweet)
+#print(extract_features(processed))
 result=NBClassifier.classify(extract_features(getFeatureVector(processed)))
 print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
