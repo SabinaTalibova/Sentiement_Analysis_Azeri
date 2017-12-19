@@ -2,10 +2,12 @@
 import csv
 import nltk
 import re
+import tkinter as tk
 from tkinter import *
 import time
 #import tkfont 
 from tkinter import font
+from tkinter import messagebox
 
 
 
@@ -102,11 +104,53 @@ def show():
 
     button_font=font.Font(family='Helvetica',size=25)
 
+
+
     B1=Button(top,text="Check",command=get,bg='green',fg='white',font=button_font,activeforeground='green')
     B1.place(x=250, y=200,width=150,height=50)
 
+
+
+
+    def info():
+    	messagebox.showinfo("Information",'Used Algorithm: Naive Bayes\nTraining Data set: 1629 sentneces\nTest Data set: 100 \nAccuracy of algorithm: 82%\nSource Code and Documentation: sabina.github.io')
+    
+    img=tk.PhotoImage(file="info.png")
+    B3=Button(top,text="info",command=info,image=img,borderwidth=0)
+    B3.place(x=580, y=0,width=150,height=50)
     top.mainloop() 
 
+
 show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+def accuracychecker():
+	counter=0
+	inputTest=csv.reader(open('TestData.csv','r'))
+	for row in inputTest:
+		tweet=row[0]
+		sentiment=row[3]
+		testTweet=tweet
+		processed=processTweet(testTweet)
+		training_set=nltk.classify.util.apply_features(extract_features,tweets)
+		NBClassifier=nltk.NaiveBayesClassifier.train(training_set)
+		result=NBClassifier.classify(extract_features(getFeatureVector(processed)))
+		if result==sentiment:
+			counter+=1
+		else:
+			counter=counter
+	print(counter)
+
 
 
