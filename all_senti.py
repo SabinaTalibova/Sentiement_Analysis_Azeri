@@ -141,6 +141,13 @@ NBClassifier=nltk.NaiveBayesClassifier.train(training_set)
 save_classifier=open("naive.pickle","wb")
 pickle.dump(NBClassifier,save_classifier)
 save_classifier.close()'''
+'''training_set=nltk.classify.util.apply_features(extract_features,senteneces)
+
+NBClassifier=nltk.NaiveBayesClassifier.train(training_set)
+
+save_classifier=open("naive.pickle","wb")
+pickle.dump(NBClassifier,save_classifier)
+save_classifier.close()'''
 
 
 
